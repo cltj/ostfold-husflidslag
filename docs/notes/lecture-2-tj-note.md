@@ -1,7 +1,6 @@
 # Lecture 2
 
 ## Kravspesifikasjon
-
 ### Hva er en funksjon
 
 
