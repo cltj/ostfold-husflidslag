@@ -3,7 +3,6 @@
 ## Kravspesifikasjon
 ### Hva er en funksjon
 
-
 ### Hvem er brukeren
 - Må prioritere funksjonalitet
 - 3-delt brukerbase
@@ -267,12 +266,40 @@ Epic: Administrere «Aktuielt»
 
 
 - sluttbruker:
-
+kommer
 
 
 - utvikler:
+kommer
 
 
+## Prosessmodell (neste modell) 
+- Hvilke faser og aktivieterer bestpr prosjektet av? 
+- Hvilke avhengigheter er et mellom disse? 
+- Når gjennomføres den? 
+
+Kundemøte --> Kravspesifikasjon --> validering av krav --> beskrivelse av systemet --> utvikling --> testing --> integrasjon --> drift --> vedlikehold
+
+
+##### Når er fossefall nyttig? 
+- Kritiske systemer som krever detaljert sikekrhts og trygghetsanalyse, av spesifikasjon og design av programvaren. 
+- Situasjoner hvor mange selskap, tilbydere eller team er involvert 
+
+HVA OM VI OMBESTEMMER OSS? 
+- Det er ikke umulig å gå bakover i prosessen, men det kan være omstendelig og kostbar prosess med hensyn på tidsbruk, etc. 
+Typsiske problemer: Verden endrer seg, kunden vet ikke hva behovedt er , under utvikling oppdages andre utfordringer, produktivitet vs byråkrati, krever god erfaring og trygg arkitektur.
+
+##### Smidig utvikling
+krav --> arkitektur --> utvikling --> testing --> ??? 
+- Always be delivering!! 
+utfordringer:
+- Interne begrensninger
+- Byråkratiske oppgaver
+- Prosess
+- Endringer
+
+
+AIM SMALL MISS SMALL!!!!
 
 
 
