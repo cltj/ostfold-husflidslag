@@ -268,14 +268,15 @@ Epic: Administrere «Aktuielt»
 - sluttbruker:
   Epic «Finne og melde seg på kurs»
 
-| ID | Funksjon | Brukerhistorie (kort) | Funksjonelt krav | Prioritet |
-|----|----------|------------------------|-------------------|-----------|
-| F7 |	Søke etter kurs	Som kursdeltaker ønsker jeg å kunne søke etter kurs, slik at jeg enkelt finner kurset jeg er interessert i.	Systemet skal la brukeren søke etter tilgjengelige kurs. | Må |
-| F8 |	Filtrere kurs	Som kursdeltaker ønsker jeg å kunne filtrere kurs, slik at jeg enklere finner et kurs som passer for meg.	Systemet skal la brukeren filtrere tilgjengelige kurs etter relevante kriterier. | Bør |
-| F9 |	Se kursinformasjon	Som kursdeltaker ønsker jeg å se informasjon om et kurs, slik at jeg kan vurdere om jeg vil melde meg på.	Systemet skal vise dato, sted, pris og antall ledige plasser for kurset. | Må |
-| F10 |	Melde seg på kurs	Som kursdeltaker ønsker jeg å kunne melde meg på et kurs, slik at jeg kan sikre meg en plass.	Systemet skal la brukeren melde seg på kurs som har ledige plasser.	| Må |
-| F11 |	Se avbestillingsvilkår	Som kursdeltaker ønsker jeg å se vilkårene for avbestilling, slik at jeg vet hva som skjer dersom jeg ikke kan delta.	Systemet skal vise informasjon om avbestilling og eventuell refusjon før påmelding.	| Bør |
-| F12 |	Få bekreftelse	Som kursdeltaker ønsker jeg å få en bekreftelse etter påmelding, slik at jeg vet at påmeldingen er registrert.	Systemet skal gi brukeren en bekreftelse når påmeldingen er gjennomført. | Bør |
+| **ID**  | **Funksjon**           | **Brukerhistorie (kort)**                                                                                             | **Funksjonelt krav**                                                                | **Prioritet** |
+| ------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------- |
+| **F7**  | Søke etter kurs        | Som kursdeltaker ønsker jeg å kunne søke etter kurs, slik at jeg enkelt finner kurset jeg er interessert i.           | Systemet skal la brukeren søke etter tilgjengelige kurs.                            | **Må**        |
+| **F8**  | Filtrere kurs          | Som kursdeltaker ønsker jeg å kunne filtrere kurs, slik at jeg enklere finner et kurs som passer for meg.             | Systemet skal la brukeren filtrere tilgjengelige kurs etter relevante kriterier.    | **Bør**       |
+| **F9**  | Se kursinformasjon     | Som kursdeltaker ønsker jeg å se informasjon om et kurs, slik at jeg kan vurdere om jeg vil melde meg på.             | Systemet skal vise dato, sted, pris og antall ledige plasser for kurset.            | **Må**        |
+| **F10** | Melde seg på kurs      | Som kursdeltaker ønsker jeg å kunne melde meg på et kurs, slik at jeg kan sikre meg en plass.                         | Systemet skal la brukeren melde seg på kurs som har ledige plasser.                 | **Må**        |
+| **F11** | Se avbestillingsvilkår | Som kursdeltaker ønsker jeg å se vilkårene for avbestilling, slik at jeg vet hva som skjer dersom jeg ikke kan delta. | Systemet skal vise informasjon om avbestilling og eventuell refusjon før påmelding. | **Bør**       |
+| **F12** | Få bekreftelse         | Som kursdeltaker ønsker jeg å få en bekreftelse etter påmelding, slik at jeg vet at påmeldingen er registrert.        | Systemet skal gi brukeren en bekreftelse når påmeldingen er gjennomført.            | **Bør**       |
+
 
 
 
