@@ -284,8 +284,12 @@ Epic: Administrere «Aktuielt»
 kommer
 
 
+
+
+
+
 Første versjon av kravspesifikasjonen
-et forslag til (ikke-funksjonelle) krav for sluttbrukeren. Tenkte noe sånt:
+et forslag til (ikke-funksjonelle krav) for sluttbrukeren. Tenkte noe sånt:
 
 | ID  | Ikke-funksjonelt krav                                                                                   | Prioritet |
 | --- | ------------------------------------------------------------------------------------------------------- | --------- |
@@ -296,6 +300,8 @@ et forslag til (ikke-funksjonelle) krav for sluttbrukeren. Tenkte noe sånt:
 | NF5 | Sidene skal laste inn raskt ved normal bruk.                                                            | Bør       |
 
 dette er bare et forslag, så si gjerne ifra hvis dere tenker noe bør endres eller legges til.
+
+
 
 
 
