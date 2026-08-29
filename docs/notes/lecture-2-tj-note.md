@@ -284,6 +284,22 @@ Epic: Administrere «Aktuielt»
 kommer
 
 
+Første versjon av kravspesifikasjonen
+et forslag til (ikke-funksjonelle) krav for sluttbrukeren. Tenkte noe sånt:
+
+| ID  | Ikke-funksjonelt krav                                                                                   | Prioritet |
+| --- | ------------------------------------------------------------------------------------------------------- | --------- |
+| NF1 | Nettsiden skal være enkel å navigere, så brukeren lett finner kurs og viktig informasjon.               | Må        |
+| NF2 | Nettsiden skal fungere på PC, mobil og nettbrett.                                                       | Må        |
+| NF3 | Informasjonen på nettsiden skal være lett å lese og forstå.                                             | Må        |
+| NF4 | Nettsiden skal være tilgjengelig for flest mulig brukere og følge krav til universell utforming .       | Må        |
+| NF5 | Sidene skal laste inn raskt ved normal bruk.                                                            | Bør       |
+
+dette er bare et forslag, så si gjerne ifra hvis dere tenker noe bør endres eller legges til.
+
+
+
+
 ## Prosessmodell (neste modell) 
 - Hvilke faser og aktivieterer bestpr prosjektet av? 
 - Hvilke avhengigheter er et mellom disse? 
