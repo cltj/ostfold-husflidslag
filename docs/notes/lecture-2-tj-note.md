@@ -302,6 +302,16 @@ et forslag til (ikke-funksjonelle krav) for sluttbrukeren. Tenkte noe sånt:
 dette er bare et forslag, så si gjerne ifra hvis dere tenker noe bør endres eller legges til.
 
 
+Sammenhengen:
+
+| Persona – hvem?         | Scenario – hvilken situasjon? | Brukerhistorie – hva trenger brukeren?                                                                                                                 | Krav – hva må systemet gjøre?                                                                               |
+| ----------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Kari – sluttbruker      | Finne og melde seg på et kurs | Som kursdeltaker ønsker jeg å kunne søke etter kurs, slik at jeg enkelt finner kurset jeg er interessert i.                                            | **F7:** Systemet skal la brukeren søke etter tilgjengelige kurs.                                            |
+| Anne – webadministrator | Publisere et nytt kurs        | Som webadministrator ønsker jeg å kunne opprette et nytt innlegg i «Aktuelt», slik at jeg enkelt kan informere medlemmene om nyheter og oppdateringer. | **F1:** Systemet skal la administrator opprette et innlegg med tittel og brødtekst, og lagre det som kladd. |
+
+
+
+
 
 
 
