@@ -1,0 +1,45 @@
+Microservices, det er for stort for prosjektet, mindre prosjekt, og så mye mer tid, komplekst.
+
+Web-api, en del av model view. 
+
+Monolitt; det er vanskelig å gjøre endringer etter hvert, sammensatt system, backend og frontendutvikling, blir det vanskelig å koordinere. 
+
+Spurte ai: anbefalte monolittisk (litt usikker) 
+
+
+
+
+
+
+Droppe monolitisk arkitektur: 
+
+Klient-server; fordi vi har blitt delt opp litt i frondtend og backend, eksponerer et api. Vi kommer til å ende opp med databser i bånd, lager, for å beskytte databasen (view beskyttelse). Men mye tid på 
+
+Videre vurdering; alle enig for de som kan det. Standard for webapplikasjoner klient-server.
+
+
+Sier oppgaven at dette skal gå til vårt prosjekt.
+
+
+
+
+
+Microservices: Passer ikke til et så lite system. Det tar så veldig lang tid for noe så lite. 
+
+
+
+MVC; 
+
+Monolittisk arkitektur: Kort levetid, kjenenr algoritmene, god oversikt, det passer bra når ting ikke er kritisk, eksempel kalakulatorer. 
+
+Konklusjon: Siden vi ikke vet alle funksjoner og størrelsen på prosjektet, så vurderer vi monolittisk arkitektur ikke er passende antakeligvis at vi må reiterere vår egen kode kontinuerlig, fordi vi må endre underveis. 
+
+MVC: kommer antakeligvis til å lande påd en api-biten. 
+
+
+Klient-server: klienten må gjøre all logikken. Det er ikke så mye traffikk på husflid. Må håndtere all data på klientsiden. Er klientene html, javascript, hva mener de med innholdet, mener de at alt leveres som en pakke. Man ha rikke en forretningslogikk, kan vil modellen knekke. 
+
+Hva er fordelen med klient-server: skalerbarhet, kan man legge til flere servere. 
+
+
+MVC: 
